@@ -16,3 +16,5 @@ const brandCarousel = document.getElementById('brandCarousel');
             interval: 2000, // 2 seconds
             wrap: true // Loop back to the first slide
         });
+
+
