@@ -889,7 +889,6 @@ nav .nav-links li a:hover {
     background-image: url('./img/Banner1.jpeg'); /* Path to your image */
     background-size: cover; /* Make the image cover the entire section */
     background-position: center; /* Center the image */
-    color: white; /* Set text color for contrast */
     height: 100vh; /* Set the section to cover the full viewport height */
     display: flex;
     justify-content: center;
